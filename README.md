@@ -12,9 +12,6 @@ This macro streamlines repetitive Excel tasks by automating the **Text to Column
 - **Center Text**  
   Centers all cell content horizontally for better readability.
 
-- **One-Click Operation**  
-  No need to navigate menus or run multiple commands — just trigger the macro.
-
 ## Installation
 1. Download the file from releases.
 2. Place it in your Excel startup folder: C:\Users<your username>\AppData\Roaming\Microsoft\Excel\XLSTART
@@ -27,9 +24,6 @@ You can edit the macro in the VBA editor (**Alt + F11**) to:
 - Apply only to specific sheets or ranges.
 
 ## Contributing
-If you have ideas for improvements or new automation features, feel free to fork the repo and submit a pull request.
+This macro is not perfect by any means and you might encounter issues. So, if you have ideas for improvements or new automation features, feel free to fork the repo and submit a pull request. 
 
----
 
-**Author:** Rashad-07 
-**License:** MIT
