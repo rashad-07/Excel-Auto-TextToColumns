@@ -14,7 +14,7 @@ This macro streamlines repetitive Excel tasks by automating the **Text to Column
 
 ## Installation
 1. Download the file from [releases](https://github.com/rashad-07/Excel-Auto-TextToColumns/releases/).
-2. Place it in your Excel startup folder: C:\Users\<your username>\AppData\Roaming\Microsoft\Excel\XLSTART
+2. Place it in your Excel startup folder: C:\Users\your username\AppData\Roaming\Microsoft\Excel\XLSTART
 3. Restart Excel. The macro will now be available in all your workbooks.
 
 ## Customization
