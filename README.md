@@ -12,6 +12,9 @@ This macro streamlines repetitive Excel tasks by automating the **Text to Column
 - **Center Text**  
   Centers all cell content horizontally for better readability.
 
+- **Fix Encoding Issues**  
+  Corrects character encoding problems that sometimes appear when opening Excel files by double-clicking.
+  
 ## Installation
 1. Download the file from [releases](https://github.com/rashad-07/Excel-Auto-TextToColumns/releases/).
 2. Place it in your Excel startup folder: C:\Users\your username\AppData\Roaming\Microsoft\Excel\XLSTART
